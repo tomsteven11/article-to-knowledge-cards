@@ -1,0 +1,4 @@
+interface:
+  display_name: "Make Knowledge Cards"
+  short_description: "Turn articles into 5-8 knowledge cards"
+  default_prompt: "用 $make-knowledge-cards 把这篇文章整理成知识卡片。"
