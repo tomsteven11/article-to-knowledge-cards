@@ -33,6 +33,8 @@ cp -r skills/make-knowledge-cards ~/.codex/skills/
 
 其他产品按其 Skill 安装说明，把 `skills/make-knowledge-cards` 放入对应目录即可。
 
+当前发布版本：[v0.1.0](https://github.com/tomsteven11/article-to-knowledge-cards/releases/tag/v0.1.0)（版本说明与历史见 [Releases](https://github.com/tomsteven11/article-to-knowledge-cards/releases)）。
+
 ## 使用方法
 
 安装后对 Agent 说（二选一）：
